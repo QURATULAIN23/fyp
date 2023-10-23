@@ -1,0 +1,15 @@
+export 'splash_screen.dart';
+export 'onboard_screen.dart';
+export 'student/student_login_screen.dart';
+export 'teacher/teacher_login_screen.dart';
+export 'student/student_dashboard_screen.dart';
+export 'teacher/teacher_dashboard_screen.dart';
+export 'student/student_course_content_screen.dart';
+export 'student/student_edit_profile_screen.dart';
+export 'teacher/manage_time_table.dart';
+export 'teacher/manage_notification_screen.dart';
+export 'teacher/teacher_edit_profile_screen.dart';
+export 'student/student_reset_password_screen.dart';
+export 'student/student_signup_screen.dart';
+export 'teacher/manage_course_content_screen.dart';
+export 'student/student_notification_screen.dart';
